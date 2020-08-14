@@ -11,6 +11,12 @@ public class AppiumTest {
 	}
 	
 	@Test
+	public void nativeApp1(){
+		System.out.println("nativeApp11");
+		System.out.println("nativeApp111");
+	}
+	
+	@Test
 	public void iosApp(){
 		System.out.println("iosApp");
 		System.out.println("iosApp1");
