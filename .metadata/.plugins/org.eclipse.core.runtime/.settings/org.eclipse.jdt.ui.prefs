@@ -1,19 +1,28 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 content_assist_number_of_computers=24
 =======
 >>>>>>> 88f2bee74b55d3c7261d498be4a7e8445f0de3d9
+=======
+content_assist_number_of_computers=24
+>>>>>>> develop
 content_assist_proposals_background=255,255,255
 content_assist_proposals_foreground=0,0,0
 eclipse.preferences.version=1
 fontPropagated=true
+org.eclipse.jdt.internal.ui.navigator.layout=2
 org.eclipse.jdt.ui.editor.tab.width=
 org.eclipse.jdt.ui.formatterprofiles.version=12
 org.eclipse.jdt.ui.javadoclocations.migrated=true
 org.eclipse.jface.textfont=1|Courier New|10.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Courier New;
 <<<<<<< HEAD
+<<<<<<< HEAD
 proposalOrderMigrated=true
 =======
 >>>>>>> 88f2bee74b55d3c7261d498be4a7e8445f0de3d9
+=======
+proposalOrderMigrated=true
+>>>>>>> develop
 spelling_locale_initialized=true
 tabWidthPropagated=true
 useAnnotationsPrefPage=true
